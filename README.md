@@ -13,7 +13,7 @@ source ~/.bashrc
 
 
 
-## 3-Controlling the motors
+## 3-motors Control
 ~~~python
 roslaunch robot_arm_pkg check_motors.launch
 ~~~
