@@ -24,7 +24,7 @@ sudo apt-get install ros-melodic-joint-state-publisher ros-melodic-joint-state-p
 sudo apt-get install ros-melodic-gazebo-ros-control joint-state-publisher
 sudo apt-get install ros-melodic-ros-controllers ros-melodic-ros-control
 ~~~
-* Compile the package
+* package Compile
 ~~~python
 catkin_make
 ~~~
