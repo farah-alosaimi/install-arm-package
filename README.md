@@ -9,12 +9,12 @@ catkin_make
 echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 ~~~
-## 2- Installing the package arduino_robot_arm
+## 2-Install arduino_robot_arm package
 
 
 
-### 3-Controlling the motors
+## 3-Controlling the motors
 ~~~python
 roslaunch robot_arm_pkg check_motors.launch
 ~~~
-### arm is ready
+## 4-arm is ready
