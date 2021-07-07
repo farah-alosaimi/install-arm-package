@@ -1,5 +1,5 @@
 # arm-package-installing
-## prepare ros
+## 1-prepare ros
 ### workspace
 * alosaimi
 ~~~python
@@ -9,5 +9,5 @@ catkin_make
 echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 ~~~
-## farah
+## 2- Installing the package arduino_robot_arm
 ### hasan
